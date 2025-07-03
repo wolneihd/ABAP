@@ -13,7 +13,8 @@ PARAMETERS: r_sucess  RADIOBUTTON GROUP rad1 DEFAULT 'X',
             r_warn    RADIOBUTTON GROUP rad1,
             r_info    RADIOBUTTON GROUP rad1,
             r_abort   RADIOBUTTON GROUP rad1,
-            r_cancel  RADIOBUTTON GROUP rad1.
+            r_cancel  RADIOBUTTON GROUP rad1,
+            r_cl_msg  RADIOBUTTON GROUP rad1.
 SELECTION-SCREEN END OF BLOCK options.
 
 IF r_sucess = 'X'.
@@ -28,4 +29,6 @@ ELSEIF r_abort = 'X'.
   MESSAGE ld_texto TYPE 'A'.
 ELSEIF r_cancel = 'X'.
   MESSAGE ld_texto TYPE 'X'.
+ELSEIF r_cl_msg = 'X'.
+  MESSAGE s002(ZC0001) WITH 'ABCD'. "PRIMEIRA LETRA s000 de sucesso!
 ENDIF.
