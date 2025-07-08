@@ -5,10 +5,11 @@ https://www.youtube.com/playlist?list=PLnpMwD8LFgjh05i3HTz0OowSufokin24z
 
 ------------------------------------------------------------------------
 
-## UDEMY (CURSO SAP Fiori Freestyle):
+## UDEMY (Treinamento SAP ABAP):
 https://www.udemy.com/course/treinamento-sap-abap/
 
-1. 01/07 (seg) - aula 81 (próxima 82 > SELECT OPTIONS)
+1. 01/07 (seg) - aula 81 (próxima 82 > SELECT OPTIONS).
+2. 07/07 (seg) - aula 82 até 86.
 
 ------------------------------------------------------------------------
 
