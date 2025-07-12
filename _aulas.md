@@ -4,7 +4,8 @@ https://www.udemy.com/course/treinamento-sap-abap/
 1. 01/07 (seg) - aula 81 (inicio follow-up).
 2. 07/07 (seg) - aula 82 até 86.
 3. 09/07 (qua) - aula 87 até 90.
-3. 10/07 (qui) - aula 91.
+4. 10/07 (qui) - aula 91.
+5. 12/07 (sab) - aula 92 até 92.
 
 ------------------------------------------------------------------------
 

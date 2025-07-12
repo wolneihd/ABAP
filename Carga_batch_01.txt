@@ -1,0 +1,5 @@
+F000000006Fornecedor teste 06 (batch input)  Rua teste 06 - São Paulo           (11)2121-0006    fornecedor06@teste.com                                                                              10101010101006
+F000000007Fornecedor teste 07 (batch input)  Rua teste 07 - São Paulo           (11)2121-0007    fornecedor07@teste.com                                                                              10101010101007
+F000000008Fornecedor teste 08 (batch input)  Rua teste 08 - São Paulo           (11)2121-0008    fornecedor08@teste.com                                                                              10101010101008
+F000000009Fornecedor teste 09 (batch input)  Rua teste 09 - São Paulo           (11)2121-0009    fornecedor09@teste.com                                                                              10101010101009
+F000000010Fornecedor teste 10 (batch input)  Rua teste 10 - São Paulo           (11)2121-0010    fornecedor10@teste.com                                                                              10101010101010
