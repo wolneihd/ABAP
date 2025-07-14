@@ -5,7 +5,8 @@ https://www.udemy.com/course/treinamento-sap-abap/
 2. 07/07 (seg) - aula 82 até 86.
 3. 09/07 (qua) - aula 87 até 90.
 4. 10/07 (qui) - aula 91.
-5. 12/07 (sab) - aula 92 até 92.
+5. 12/07 (sab) - aula 92 até 96. (pausado em 52:44)
+6. 14/07 (seg) - aula 96. (pausado em 1:30:43)
 
 ------------------------------------------------------------------------
 
